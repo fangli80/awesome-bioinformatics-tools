@@ -38,7 +38,9 @@ Samtools: https://github.com/samtools/samtools
 
 HTSlib: https://github.com/samtools/htslib
 
-HTSlib bindings for Rust: https://github.com/rust-bio/rust-htslib
+HTSlib for Rust: https://github.com/rust-bio/rust-htslib
+
+HTSlib for Java: https://github.com/samtools/htsjdk
 
 Bcftools: https://github.com/samtools/bcftools
 
