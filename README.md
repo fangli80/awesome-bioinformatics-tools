@@ -34,6 +34,8 @@ Seqtk: https://github.com/lh3/seqtk
 
 fastp: https://github.com/OpenGene/fastp
 
+FastQC: https://github.com/s-andrews/FastQC
+
 Samtools: https://github.com/samtools/samtools
 
 HTSlib: https://github.com/samtools/htslib
