@@ -146,6 +146,8 @@ NECAT: https://github.com/xiaochuanle/NECAT
 
 ### Genome polishing (error correction)
 
+racon: https://github.com/isovic/racon
+
 nanopolish: https://github.com/jts/nanopolish
 
 medaka: https://github.com/nanoporetech/medaka
