@@ -20,6 +20,10 @@ BWA-MEM2: https://github.com/bwa-mem2/bwa-mem2
 
 STAR: https://github.com/alexdobin/STAR
 
+bowtie: https://github.com/BenLangmead/bowtie
+
+bowtie2: https://github.com/BenLangmead/bowtie2
+
 blastn: http://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
 
 ### Protein sequence alignment
