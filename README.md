@@ -98,6 +98,8 @@ SVision: https://github.com/xjtu-omics/SVision
 
 pbsv: https://github.com/PacificBiosciences/pbsv
 
+svim: https://github.com/eldariont/svim
+
 ### Short Tandem Repeat (STR) detection
 
 TRF: https://github.com/Benson-Genomics-Lab/TRF
