@@ -60,6 +60,8 @@ Deepvariant: https://github.com/google/
 
 freebayes: https://github.com/freebayes/freebayes
 
+16GT: https://github.com/aquaskyline/16GT
+
 GATK: https://github.com/broadinstitute/gatk
 
 Strelka2: https://github.com/Illumina/strelka
