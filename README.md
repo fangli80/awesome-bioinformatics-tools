@@ -56,7 +56,7 @@ Bedtools: https://github.com/arq5x/bedtools2
 
 ### SNP/Indel detection from short-read sequencing
 
-Deepvariant: https://github.com/google/
+Deepvariant: https://github.com/google/deepvariant
 
 freebayes: https://github.com/freebayes/freebayes
 
