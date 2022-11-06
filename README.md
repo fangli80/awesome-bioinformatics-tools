@@ -102,6 +102,8 @@ pbsv: https://github.com/PacificBiosciences/pbsv
 
 svim: https://github.com/eldariont/svim
 
+Picky: https://github.com/TheJacksonLaboratory/Picky
+
 ### Short Tandem Repeat (STR) detection
 
 TRF: https://github.com/Benson-Genomics-Lab/TRF
