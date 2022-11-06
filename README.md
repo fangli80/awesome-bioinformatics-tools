@@ -88,6 +88,8 @@ LUMPY: https://github.com/arq5x/lumpy-sv
 
 Pindel: https://github.com/genome/pindel
 
+smoove: https://github.com/brentp/smoove
+
 ### Structural variation detection from long-read sequencing
 
 CuteSV: https://github.com/tjiangHIT/cuteSV
