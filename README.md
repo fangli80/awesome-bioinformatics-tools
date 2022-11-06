@@ -102,6 +102,8 @@ pbsv: https://github.com/PacificBiosciences/pbsv
 
 svim: https://github.com/eldariont/svim
 
+nanosv: https://github.com/mroosmalen/nanosv
+
 Picky: https://github.com/TheJacksonLaboratory/Picky
 
 ### Short Tandem Repeat (STR) detection
