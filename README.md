@@ -1,6 +1,7 @@
 # Awesome bioinformatics tools
 
 A curated list of awesome bioinformatics tools. Most of these tools are available on GitHub. 
+This list is for building a mirror server at Peking University. 
 
 ## Sequence alignment
 
